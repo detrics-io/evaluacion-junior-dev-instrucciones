@@ -5,7 +5,7 @@ Bienvenidos a la evaluación para la posición de Desarrollador Backend Junior e
 
 ## Requisitos de la Evaluación
 
-1. **Resolución de Ejercicios en Una Hora:** Se te proporcionará acceso a los ejercicios de la evaluación. Desde el momento en que se te otorgue el acceso, tendrás **una hora** para resolver los ejercicios. Una vez finalizada la hora, deberás realizar un `git push` de tu trabajo al repositorio proporcionado. Podes hacer cuantos pushs y commits quieras a lo largo de ésta hora, y no vamos a evaluar la calidad de los mensajes de commits. Nos interesa únicamente el código final. 
+1. **Resolución de Ejercicios en Una Hora:** Tenés **una hora** para resolver los ejercicios. Para comenzar a trabajar podés hacer un `git clone` del repositorio en cuestión y trabajar en tu local. Una vez finalizada la hora, deberás realizar un `git push` de tu trabajo al repositorio proporcionado. Podes hacer cuantos pushs y commits quieras a lo largo de ésta hora, y no vamos a evaluar la calidad de los mensajes de commits. Nos interesa únicamente el código final. 
 
 2. **Lectura atenta de los enunciados** Tomate tu tiempo para leer los enunciados de los 2 ejercicios. Está todo estipulado para que tengas 10 minutos para leer ambos enunciados con tranquilidad y luego 50 minutos para que codees. Ambos ejercicios tiene un puntito extra si te sobra tiempo. 
 
@@ -20,7 +20,6 @@ Esta evaluación está dirigida a estudiantes de Ingeniería en Sistemas o carre
 ## Instrucciones Finales
 
 - Asegúrate de tener una conexión estable a Internet para evitar inconvenientes durante la evaluación.
-- Lee cada ejercicio detenidamente y planifica tu tiempo para poder abordar todos los desafíos.
 - Recuerda que la calidad del código, la lógica utilizada y la creatividad serán valoradas además de la correcta ejecución de los ejercicios.
 
 Te deseamos mucho éxito en esta evaluación y esperamos ver tu talento en acción.
